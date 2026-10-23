@@ -1,0 +1,9 @@
+[
+  {
+    "id": "music_maria_repo",
+    "name": "Música Maria",
+    "version": "1.0.0",
+    "description": "Playlist de músicas de Maria mantida por escritor3",
+    "jsUrl": "https://raw.githubusercontent.com/escritor3/maria/main/music_maria.js"
+  }
+]
