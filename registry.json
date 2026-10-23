@@ -1,0 +1,9 @@
+[
+  {
+    "id": "music_eloisa_repo",
+    "name": "Música Eloisa",
+    "version": "1.0.0",
+    "description": "Playlist de músicas de Eloisa mantida por escritor3",
+    "jsUrl": "https://raw.githubusercontent.com/escritor3/eloisa/main/music_eloisa.js"
+  }
+]
